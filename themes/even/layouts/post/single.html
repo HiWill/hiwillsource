@@ -35,6 +35,9 @@
       {{ .Content }}
     </div>
 
+    <!-- Copyright -->
+    {{- partial "post/copyright.html" . -}}
+
     <!-- Google AdSense -->
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1946404447254171" data-ad-slot="6956738551"
@@ -42,9 +45,6 @@
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-    <!-- Copyright -->
-    {{- partial "post/copyright.html" . -}}
 
     <!-- Reward -->
     {{- partial "post/reward.html" . -}}
