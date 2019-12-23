@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://hiwill.github.io/hiwill/"
 languageCode = "en-us"
 title = "FastLearn"
 theme = "notepadium" 
