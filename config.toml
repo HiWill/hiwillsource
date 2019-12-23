@@ -1,4 +1,5 @@
-baseURL = "https://hiwill.github.io/hiwill/"
+baseURL = "https://hiwill.github.io/"
 languageCode = "en-us"
 title = "FastLearn"
 theme = "notepadium" 
+publishDir = "../HiWill.github.io"
