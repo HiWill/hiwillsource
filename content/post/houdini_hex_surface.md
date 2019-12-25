@@ -10,4 +10,4 @@ categories: ["TechnicallyArt"]
 
 **remesh** : iterations=5，smooth=0, EdgeLengths=Adaptive,Density=1,Gradation=0.25  
 **divide** : uncheck "smooth Polygons", check "Compute Dual"  
-<https://github.com/HiWill/hiwillsource/blob/master/files/houdini/hex_surface.hip>
+<https://github.com/HiWill/hiwillsource/blob/master/files/houdini/hex_surface.hipnc>
